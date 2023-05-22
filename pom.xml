@@ -112,6 +112,8 @@
     <asciidoctorj.version>2.5.3</asciidoctorj.version>
     <bootstrap.version>5.2.3</bootstrap.version>
     <cglib.version>2.2</cglib.version>
+    <sonar.organization>sampleorgcs</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     <!-- do not update necessary for lesson -->
     <checkstyle.version>3.1.2</checkstyle.version>
     <commons-collections.version>3.2.1</commons-collections.version>
